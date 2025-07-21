@@ -43,12 +43,15 @@ This dashboard is ideal for:
 - Insurance and wealth firms
 - Business decision-makers tracking product-level performance
   
-## Demo Images
+## Demo Preview
 
 <img width="1034" height="684" alt="Screenshot 2025-07-20 212547" src="https://github.com/user-attachments/assets/be148389-8b76-47b0-9ac3-624b1ed24e64" />
 <img width="1039" height="676" alt="Screenshot 2025-07-20 212626" src="https://github.com/user-attachments/assets/5a576287-d80a-4b6b-a049-60057145e079" />
 <img width="1058" height="672" alt="Screenshot 2025-07-20 215436" src="https://github.com/user-attachments/assets/4dc98e95-3761-483f-a636-5037a9547779" />
 
+## Demo Video
+
+[Download and watch the demo video](./insurance_dashboard_demo.mp4)
 
 
 
