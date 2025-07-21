@@ -51,7 +51,7 @@ This dashboard is ideal for:
 
 ## Demo Video
 
-[Download and watch the demo video](./)
+[Download and watch the demo video](./Insurance project.mp4)
 
 
 
